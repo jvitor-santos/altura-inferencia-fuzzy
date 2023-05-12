@@ -18,6 +18,7 @@ div {
 }
 
 .divTalbe {
+    background-color: #232339;
     border-radius: 5px;
     margin: 10px;
     width: 15rem;
@@ -27,6 +28,31 @@ div {
     margin: auto;
     align-items: center;
     padding: auto;
+}
+
+table {
+    align-self: center;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #f8f2fc;
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #f8f2fc;
+}
+
+tr {
+    border: 1px solid #f8f2fc;
+}
+
+td {
+    border: 1px solid #f8f2fc;
+}
+
+caption {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
 
 h1 {
@@ -75,29 +101,4 @@ footer {
     font-size: 15px;
     margin: auto;
     color: #f8f2fc;
-}
-
-table {
-    align-self: center;
-    padding: 10px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    color: #f8f2fc;
-    margin: auto;
-    border-collapse: collapse;
-    border: 1px solid #f8f2fc;
-}
-
-tr {
-    border: 1px solid #f8f2fc;
-}
-
-td {
-    border: 1px solid #f8f2fc;
-}
-
-caption {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
 }
