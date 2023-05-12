@@ -61,9 +61,6 @@ function calculateFuzzy() {
         
     }
 
-    
-    
-
     // Exibir a classificação na página
     document.getElementById("classificacao").innerHTML = "Classificação: " + classificacaoFuzzy + "<br>( " + veryLowFuzzy.toFixed(2) + ", " + lowFuzzy.toFixed(2) + ", " + avarageFuzzy.toFixed(2) + ", " + hightFuzzy.toFixed(2) + ", " + VeryHightFuzzy.toFixed(2) + ")";
 }

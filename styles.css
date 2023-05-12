@@ -1,6 +1,7 @@
 body {
     background-color: #232339;
 }
+
 div {
     background-color: #2E2E48;
     border-radius: 5px;
@@ -12,12 +13,15 @@ div {
     font-size: 20px;
     margin: auto;
 }
+
 h1 {
     color: #f8f2fc;
 }
+
 label {
     color: #ACB1C3;
 }
+
 button {
     background-color: #2a337e;
     border-radius: 5px;
@@ -31,9 +35,11 @@ button {
     margin-top: 20px;
     color: #f8f2fc;
 }
+
 p {
     color: #f8f2fc;
 }
+
 input {
     border-radius: 5px;
     padding: 9px;
@@ -45,6 +51,7 @@ input {
     margin-top: 20px;
     color: #000000;
 }
+
 footer {
     border-radius: 5px;
     padding: 10px;
