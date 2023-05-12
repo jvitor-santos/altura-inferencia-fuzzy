@@ -4,14 +4,13 @@ body {
 div {
     background-color: #2E2E48;
     border-radius: 5px;
-    padding: 10px;
+    
     margin: 10px;
     width: 50%;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     margin: auto;
-    margin-top: 200px;
 }
 h1 {
     color: #f8f2fc;
@@ -37,13 +36,21 @@ p {
 }
 input {
     border-radius: 5px;
-    padding: 10px;
-    width: 50%;
+    padding: 9px;
+    width: 27%;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     border-color: #f8f2fc;
     margin-top: 20px;
     color: #000000;
-    
+}
+footer {
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: auto;
+    color: #f8f2fc;
 }
